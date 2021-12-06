@@ -8,3 +8,6 @@
  */
 
 rootProject.name = "renovate-duplicate-pr"
+
+enableFeaturePreview("VERSION_CATALOGS")
+
